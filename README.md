@@ -3,6 +3,7 @@
 ### What this repository is about
 
 This repository contains the flutter api but in offline mode,
+the file is in the file folder
 It is highly compressed from 4.07GB to 10Mb, 
 
 To uncompress the file, We recommand you to use <a href="https://www.7-zip.org/download.html">7-ZIP</a>
